@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mythily.Y - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mythily.Y</h1>
+    <h2>Department of Computer Application</h2>
+  </header>
+
+  <section id="about">
+    <h3>About Me</h3>
+    <p>I am Mythily.Y from the Department of Computer Application. I have completed my schooling in Govt Hr Sec School, Kasinayakanpatti.</p>
+    <p>My hobbies are listening to songs, I’m interested in history and other country cultures.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Mythily.Y Portfolio</p>
+  </footer>
+</body>
+</html>
